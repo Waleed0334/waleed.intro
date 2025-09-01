@@ -3,10 +3,10 @@ this is my first git account
 <br>
 Author : Waleed Ahmed
 # Mehboob Ahmed
-```my name is Waleed
+my name is Waleed
 abc
-03342512466```
+03342512466
 1.first nested list
-  -First ab
-   -second abc
+  - First ab
+    - second abc
 
